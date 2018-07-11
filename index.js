@@ -18,4 +18,4 @@ var randomNumber = Math.random(0,20)
 
 var randomInteger = Math.round(randomNumber)
 
-var randomUserID = Math.random(1)
+var randomUserID = Math.random(1000000001,1000000020)
